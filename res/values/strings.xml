@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Deets</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Deets</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+	<string name="overflow">Menu Overflow</string>
+	<string name="color_stripe">Color </string>
+	<string name= "NameDefault">Likes:\n        Guitars\nDislikes:\n        Cats\nMannerisms:\n        Strong Eye Contact</string>
+	<string name= "tabButton">Tab</string>
+	<string name="MainName">Wellington Wu</string>
+	<string name="search_bar">Search</string>
+</resources>
